@@ -11,6 +11,7 @@
 ## Java
 
 ## C#
+*  `demo/Hand.exe`: C# 控制机械手示例程序
 
 ## Android(Java)
 *  `app-release.apk`: 控制机械手Android安装包
